@@ -610,7 +610,7 @@ footer .copy-info {
 
 /* 태블릿 */
 @media (max-width: 1360px) {
-    .wow, .bounceInUp, .contents{
+    .wow, .bounceInUp, .bounceInRight, .contents, .contents1{
         animation: none;
     }
     body{
@@ -821,3 +821,4 @@ footer .copy-info {
     
 
 }
+
